@@ -1,5 +1,15 @@
 # Markdown
 
+
+Number of hash.
+# this is one Hash
+## this is two hash
+### this is three hash
+#### this is four hash
+##### this is five hash
+###### this is six hash
+
+
 What is Markdown?
 
 Markdown is a way to style text on the web. 
