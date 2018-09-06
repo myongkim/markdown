@@ -1,4 +1,4 @@
-# markdown
+# Markdown
 
 What is Markdown?
 
